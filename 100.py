@@ -1,6 +1,3 @@
-import sys
-sys.setrecursionlimit(10000)
-
 class Cake:
     
     known_kinds = ['cake', 'muffin', 'meringue', 'biscuit', 'eclair', 'christmas', 'pretzel','other']
